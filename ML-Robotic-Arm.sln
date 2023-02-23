@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ML-Robotic-Arm", "ML-Robotic-Arm\ML-Robotic-Arm.csproj", "{CF826B6E-CACA-4A29-A572-56FB8B576E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF826B6E-CACA-4A29-A572-56FB8B576E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF826B6E-CACA-4A29-A572-56FB8B576E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF826B6E-CACA-4A29-A572-56FB8B576E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF826B6E-CACA-4A29-A572-56FB8B576E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {239F5116-3259-4721-BB19-8C75BB91DB7B}
+	EndGlobalSection
+EndGlobal
